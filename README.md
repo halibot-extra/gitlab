@@ -38,7 +38,7 @@ Example config
     "gitlab-example": {
       "of": "gitlab",
       "secret": "sshhhh",
-      "dest": "irc0/##example"
+      "dest": "irc0/##example",
       "events": {
         "issues": [
           "opened",
